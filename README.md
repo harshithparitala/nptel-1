@@ -297,4 +297,3 @@ n
 
 ---
 
-# If you study only this sheet, you can solve 95% DAC/ADC MCQs.
